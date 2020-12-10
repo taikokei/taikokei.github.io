@@ -1,0 +1,67 @@
+header{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-image: url(https://free-materials.com/adm/wp-content/uploads/2017/08/adpDSC_6817-1-750x499.jpg);
+  background-size: cover
+}
+
+header p{
+  font-size: 20px;
+}
+
+ a{
+  font-size: 20px
+}
+
+h2{
+  font-size: 30px;
+}
+
+header h3{
+  font-size: 25px;
+}
+
+a[name="jousekikaisetu"]{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+a[name="sikennbisha"]{
+  font-weight: bold;
+  font-size: 23px;
+}
+
+a[name="sannkennbisha"]{
+  font-weight: bold;
+  font-size: 23px
+}
+
+a[name="senntenakabisha"]{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+a[name="kakukoukannhuribisha"]{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.sikennbisha .ookiimoji{
+  font-size: 20px;
+}
+
+.sikennbisha .sonota{
+  color: red;
+}
+
+.sannkennbisha span{
+  color: red;
+}
+
+.senntenakabisha span{
+  color: red;
+}
+
+.kakukoukannhuribisha span{
+  color: red;
+}
